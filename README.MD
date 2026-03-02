@@ -146,9 +146,7 @@ mysql -u root -p garmentfactory < database/garmentfactory.sql
 
 ---
 
-## 🤝 Обратная связь и контакты
-
-**Автор:** [ygalaxyy](https://github.com/ygalaxyy) 👨‍💻
+## 🤝 Обратная связь и контакты 👨‍💻
 
 ### 📧 Email: **IMgalaxy.light@yandex.com**
 
