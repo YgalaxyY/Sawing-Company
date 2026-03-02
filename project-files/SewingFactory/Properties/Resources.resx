@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.7.2.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.7.2.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.7.2.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="if_back_2673" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_back_2673.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_login_173049" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_login_173049.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_102_111044" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_102_111044.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_88_111104" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_88_111104.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_house_384890" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_house_384890.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_money_bag_309025" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_money_bag_309025.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_ic_assignment_return_48px_352029" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_ic_assignment_return_48px_352029.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_order_history_49596" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_order-history_49596.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_Notepad_pencil_1154373" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_Notepad_pencil_1154373.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_98_111048" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_98_111048.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_8610ba7bb6deae8b1537b6bd2fdce543_32bits_128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\8610ba7bb6deae8b1537b6bd2fdce543-32bits-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="a180031243ffad7d21cb050c92297c9b" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\a180031243ffad7d21cb050c92297c9b.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Снимок экрана (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

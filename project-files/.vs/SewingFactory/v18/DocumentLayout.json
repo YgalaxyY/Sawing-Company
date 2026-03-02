@@ -1,0 +1,586 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\sewingfactory\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|solutionrelative:sewingfactory\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\sewingfactory\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|solutionrelative:sewingfactory\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|c:\\users\\galaxy\\downloads\\car_nastya1\\car_nastya\\project-files\\sewingfactory\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|solutionrelative:sewingfactory\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\sewingfactory\\profits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|solutionrelative:sewingfactory\\profits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\sewingfactory\\ordersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|solutionrelative:sewingfactory\\ordersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\sewingfactory\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|solutionrelative:sewingfactory\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\sewingfactory\\workersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|solutionrelative:sewingfactory\\workersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\sewingfactory\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|solutionrelative:sewingfactory\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\sewingfactory\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|solutionrelative:sewingfactory\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|c:\\users\\galaxy\\downloads\\car_nastya1\\car_nastya\\project-files\\sewingfactory\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|solutionrelative:sewingfactory\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\sewingfactory\\customereditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|solutionrelative:sewingfactory\\customereditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\sewingfactory\\customerdetailsforbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|solutionrelative:sewingfactory\\customerdetailsforbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\sewingfactory\\cusdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|solutionrelative:sewingfactory\\cusdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|c:\\users\\galaxy\\downloads\\car_nastya1\\car_nastya\\project-files\\sewingfactory\\customerdetailsforbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|solutionrelative:sewingfactory\\customerdetailsforbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\sewingfactory\\comformformdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|solutionrelative:sewingfactory\\comformformdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\sewingfactory\\bookerrmsgbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|solutionrelative:sewingfactory\\bookerrmsgbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\sewingfactory\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|solutionrelative:sewingfactory\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\sewingfactory\\errormsgbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|solutionrelative:sewingfactory\\errormsgbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\sewingfactory\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|solutionrelative:sewingfactory\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\sewingfactory\\oldordersinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|solutionrelative:sewingfactory\\oldordersinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\sewingfactory\\orderavaliable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|solutionrelative:sewingfactory\\orderavaliable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\sewingfactory\\ordercompletionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|solutionrelative:sewingfactory\\ordercompletionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\sewingfactory\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|solutionrelative:sewingfactory\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\sewingfactory\\paymentsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|solutionrelative:sewingfactory\\paymentsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\sewingfactory\\productavaliableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|solutionrelative:sewingfactory\\productavaliableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\sewingfactory\\productdetailsforbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|solutionrelative:sewingfactory\\productdetailsforbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\sewingfactory\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|solutionrelative:sewingfactory\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\sewingfactory\\quantitysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|solutionrelative:sewingfactory\\quantitysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\sewingfactory\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|solutionrelative:sewingfactory\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\sewingfactory\\showprofits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|solutionrelative:sewingfactory\\showprofits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\sewingfactory\\successmsgbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|solutionrelative:sewingfactory\\successmsgbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\sewingfactory\\workerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|solutionrelative:sewingfactory\\workerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\sewingfactory\\workerselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|solutionrelative:sewingfactory\\workerselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\sewingfactory\\workersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|solutionrelative:sewingfactory\\workersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\sewingfactory\\curdqueryclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|solutionrelative:sewingfactory\\curdqueryclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\sewingfactory\\accounttype.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|SewingFactory\\SewingFactory.csproj|solutionrelative:sewingfactory\\accounttype.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\Notification.cs",
+              "RelativeDocumentMoniker": "SewingFactory\\Notification.cs",
+              "ToolTip": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\Notification.cs",
+              "RelativeToolTip": "SewingFactory\\Notification.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAADwv6QAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T09:00:59.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WorkersForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\WorkersForm.cs",
+              "RelativeDocumentMoniker": "SewingFactory\\WorkersForm.cs",
+              "ToolTip": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\WorkersForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SewingFactory\\WorkersForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T08:07:25.929Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\ProductsForm.cs",
+              "RelativeDocumentMoniker": "SewingFactory\\ProductsForm.cs",
+              "ToolTip": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\ProductsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SewingFactory\\ProductsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T08:12:59.48Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrdersForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\OrdersForm.cs",
+              "RelativeDocumentMoniker": "SewingFactory\\OrdersForm.cs",
+              "ToolTip": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\OrdersForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SewingFactory\\OrdersForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T07:40:03.66Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "profits.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\profits.cs",
+              "RelativeDocumentMoniker": "SewingFactory\\profits.cs",
+              "ToolTip": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\profits.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SewingFactory\\profits.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T08:12:55.553Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Notification.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\Notification.cs",
+              "RelativeDocumentMoniker": "SewingFactory\\Notification.cs",
+              "ToolTip": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\Notification.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SewingFactory\\Notification.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T07:39:49.623Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "settings.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\settings.cs",
+              "RelativeDocumentMoniker": "SewingFactory\\settings.cs",
+              "ToolTip": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\settings.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SewingFactory\\settings.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T08:09:22.859Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "SewingFactory\\CustomerForm.cs",
+              "ToolTip": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\CustomerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SewingFactory\\CustomerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T06:55:01.024Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\MainForm.cs",
+              "RelativeDocumentMoniker": "SewingFactory\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SewingFactory\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T06:55:04.784Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\MainForm.cs",
+              "RelativeDocumentMoniker": "SewingFactory\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\MainForm.cs",
+              "RelativeToolTip": "SewingFactory\\MainForm.cs",
+              "ViewState": "AgIAAAgBAAAAAAAAAAAowBkBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T08:48:23.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\CustomerEditForm.cs",
+              "RelativeDocumentMoniker": "SewingFactory\\CustomerEditForm.cs",
+              "ToolTip": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\CustomerEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SewingFactory\\CustomerEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T06:39:52.969Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerDetailsForBookForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\CustomerDetailsForBookForm.cs",
+              "RelativeDocumentMoniker": "SewingFactory\\CustomerDetailsForBookForm.cs",
+              "ToolTip": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\CustomerDetailsForBookForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SewingFactory\\CustomerDetailsForBookForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T06:39:50.456Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "cusDetailsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\cusDetailsForm.cs",
+              "RelativeDocumentMoniker": "SewingFactory\\cusDetailsForm.cs",
+              "ToolTip": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\cusDetailsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SewingFactory\\cusDetailsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T07:14:55.561Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerDetailsForBookForm.cs",
+              "DocumentMoniker": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\CustomerDetailsForBookForm.cs",
+              "RelativeDocumentMoniker": "SewingFactory\\CustomerDetailsForBookForm.cs",
+              "ToolTip": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\CustomerDetailsForBookForm.cs",
+              "RelativeToolTip": "SewingFactory\\CustomerDetailsForBookForm.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAADwv5UAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T08:55:06.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ComformFormDelete.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\ComformFormDelete.cs",
+              "RelativeDocumentMoniker": "SewingFactory\\ComformFormDelete.cs",
+              "ToolTip": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\ComformFormDelete.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SewingFactory\\ComformFormDelete.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T06:55:51.906Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookErrMsgBox.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\BookErrMsgBox.cs",
+              "RelativeDocumentMoniker": "SewingFactory\\BookErrMsgBox.cs",
+              "ToolTip": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\BookErrMsgBox.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SewingFactory\\BookErrMsgBox.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T07:20:56.767Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "accountType.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\accountType.cs",
+              "RelativeDocumentMoniker": "SewingFactory\\accountType.cs",
+              "ToolTip": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\accountType.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SewingFactory\\accountType.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T07:38:45.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ErrorMsgBox.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\ErrorMsgBox.cs",
+              "RelativeDocumentMoniker": "SewingFactory\\ErrorMsgBox.cs",
+              "ToolTip": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\ErrorMsgBox.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SewingFactory\\ErrorMsgBox.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T06:39:54.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\LoginForm.cs",
+              "RelativeDocumentMoniker": "SewingFactory\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SewingFactory\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T06:55:20.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OldOrdersInfo.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\OldOrdersInfo.cs",
+              "RelativeDocumentMoniker": "SewingFactory\\OldOrdersInfo.cs",
+              "ToolTip": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\OldOrdersInfo.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SewingFactory\\OldOrdersInfo.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T07:38:33.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderAvaliable.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\OrderAvaliable.cs",
+              "RelativeDocumentMoniker": "SewingFactory\\OrderAvaliable.cs",
+              "ToolTip": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\OrderAvaliable.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SewingFactory\\OrderAvaliable.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T07:38:37.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderCompletionForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\OrderCompletionForm.cs",
+              "RelativeDocumentMoniker": "SewingFactory\\OrderCompletionForm.cs",
+              "ToolTip": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\OrderCompletionForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SewingFactory\\OrderCompletionForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T07:39:58.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\packages.config",
+              "RelativeDocumentMoniker": "SewingFactory\\packages.config",
+              "ToolTip": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\packages.config",
+              "RelativeToolTip": "SewingFactory\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-03-02T08:13:53.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductAvaliableForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\ProductAvaliableForm.cs",
+              "RelativeDocumentMoniker": "SewingFactory\\ProductAvaliableForm.cs",
+              "ToolTip": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\ProductAvaliableForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SewingFactory\\ProductAvaliableForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T07:40:18.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductDetailsForBook.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\ProductDetailsForBook.cs",
+              "RelativeDocumentMoniker": "SewingFactory\\ProductDetailsForBook.cs",
+              "ToolTip": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\ProductDetailsForBook.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SewingFactory\\ProductDetailsForBook.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T07:40:25.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProjectInstaller.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\ProjectInstaller.cs",
+              "RelativeDocumentMoniker": "SewingFactory\\ProjectInstaller.cs",
+              "ToolTip": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\ProjectInstaller.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SewingFactory\\ProjectInstaller.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T08:12:53.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PaymentSettings.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\PaymentSettings.cs",
+              "RelativeDocumentMoniker": "SewingFactory\\PaymentSettings.cs",
+              "ToolTip": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\PaymentSettings.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SewingFactory\\PaymentSettings.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T07:40:11.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "QuantitySettings.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\QuantitySettings.cs",
+              "RelativeDocumentMoniker": "SewingFactory\\QuantitySettings.cs",
+              "ToolTip": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\QuantitySettings.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SewingFactory\\QuantitySettings.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T08:12:46.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "settings.cs",
+              "DocumentMoniker": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\settings.cs",
+              "RelativeDocumentMoniker": "SewingFactory\\settings.cs",
+              "ToolTip": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\settings.cs",
+              "RelativeToolTip": "SewingFactory\\settings.cs",
+              "ViewState": "AgIAALUCAAAAAAAAAADwv8gCAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T08:10:05.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "showProfits.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\showProfits.cs",
+              "RelativeDocumentMoniker": "SewingFactory\\showProfits.cs",
+              "ToolTip": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\showProfits.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SewingFactory\\showProfits.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T08:09:21.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SuccessMSGBox.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\SuccessMSGBox.cs",
+              "RelativeDocumentMoniker": "SewingFactory\\SuccessMSGBox.cs",
+              "ToolTip": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\SuccessMSGBox.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SewingFactory\\SuccessMSGBox.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T08:09:19.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "WorkerDetails.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\WorkerDetails.cs",
+              "RelativeDocumentMoniker": "SewingFactory\\WorkerDetails.cs",
+              "ToolTip": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\WorkerDetails.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SewingFactory\\WorkerDetails.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T08:08:59.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "WorkerSelection.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\WorkerSelection.cs",
+              "RelativeDocumentMoniker": "SewingFactory\\WorkerSelection.cs",
+              "ToolTip": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\WorkerSelection.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SewingFactory\\WorkerSelection.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T08:08:51.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "WorkersForm.cs",
+              "DocumentMoniker": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\WorkersForm.cs",
+              "RelativeDocumentMoniker": "SewingFactory\\WorkersForm.cs",
+              "ToolTip": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\WorkersForm.cs",
+              "RelativeToolTip": "SewingFactory\\WorkersForm.cs",
+              "ViewState": "AgIAAB0BAAAAAAAAAAAgwFMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T08:07:32.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "accountType.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\accountType.Designer.cs",
+              "RelativeDocumentMoniker": "SewingFactory\\accountType.Designer.cs",
+              "ToolTip": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\accountType.Designer.cs",
+              "RelativeToolTip": "SewingFactory\\accountType.Designer.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAhwHUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T06:40:01.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CURDQueryClass.cs",
+              "DocumentMoniker": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\CURDQueryClass.cs",
+              "RelativeDocumentMoniker": "SewingFactory\\CURDQueryClass.cs",
+              "ToolTip": "C:\\Users\\Galaxy\\Downloads\\car_nastya1\\car_nastya\\project-files\\SewingFactory\\CURDQueryClass.cs",
+              "RelativeToolTip": "SewingFactory\\CURDQueryClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T07:20:57.87Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

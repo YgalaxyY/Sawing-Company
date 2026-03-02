@@ -1,0 +1,661 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\University\\Progect\\car_nastya\\project-files\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|e:\\university\\progect\\car_nastya\\project-files\\car_renting_management_system\\bookerrmsgbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|solutionrelative:car_renting_management_system\\bookerrmsgbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|e:\\university\\progect\\car_nastya\\project-files\\car_renting_management_system\\accounttype.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|solutionrelative:car_renting_management_system\\accounttype.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|e:\\university\\progect\\car_nastya\\project-files\\car_renting_management_system\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|solutionrelative:car_renting_management_system\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|E:\\University\\Progect\\car_nastya\\project-files\\car_renting_management_system\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|solutionrelative:car_renting_management_system\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|E:\\University\\Progect\\car_nastya\\project-files\\car_renting_management_system\\driverdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|solutionrelative:car_renting_management_system\\driverdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|E:\\University\\Progect\\car_nastya\\project-files\\car_renting_management_system\\customereditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|solutionrelative:car_renting_management_system\\customereditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|E:\\University\\Progect\\car_nastya\\project-files\\car_renting_management_system\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|solutionrelative:car_renting_management_system\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|E:\\University\\Progect\\car_nastya\\project-files\\car_renting_management_system\\comformformdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|solutionrelative:car_renting_management_system\\comformformdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|E:\\University\\Progect\\car_nastya\\project-files\\car_renting_management_system\\cusdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|solutionrelative:car_renting_management_system\\cusdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|E:\\University\\Progect\\car_nastya\\project-files\\car_renting_management_system\\customerdetailsforbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|solutionrelative:car_renting_management_system\\customerdetailsforbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|E:\\University\\Progect\\car_nastya\\project-files\\car_renting_management_system\\carsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|solutionrelative:car_renting_management_system\\carsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|E:\\University\\Progect\\car_nastya\\project-files\\car_renting_management_system\\cardetailsforbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|solutionrelative:car_renting_management_system\\cardetailsforbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|E:\\University\\Progect\\car_nastya\\project-files\\car_renting_management_system\\caravaliableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|solutionrelative:car_renting_management_system\\caravaliableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|E:\\University\\Progect\\car_nastya\\project-files\\car_renting_management_system\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|solutionrelative:car_renting_management_system\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|E:\\University\\Progect\\car_nastya\\project-files\\car_renting_management_system\\carsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|solutionrelative:car_renting_management_system\\carsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|E:\\University\\Progect\\car_nastya\\project-files\\car_renting_management_system\\cardetailsforbook.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|solutionrelative:car_renting_management_system\\cardetailsforbook.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|E:\\University\\Progect\\car_nastya\\project-files\\car_renting_management_system\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|solutionrelative:car_renting_management_system\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|E:\\University\\Progect\\car_nastya\\project-files\\car_renting_management_system\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|solutionrelative:car_renting_management_system\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|E:\\University\\Progect\\car_nastya\\project-files\\car_renting_management_system\\returning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|solutionrelative:car_renting_management_system\\returning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|E:\\University\\Progect\\car_nastya\\project-files\\car_renting_management_system\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|solutionrelative:car_renting_management_system\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|E:\\University\\Progect\\car_nastya\\project-files\\car_renting_management_system\\showprofits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|solutionrelative:car_renting_management_system\\showprofits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|E:\\University\\Progect\\car_nastya\\project-files\\car_renting_management_system\\successmsgbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|solutionrelative:car_renting_management_system\\successmsgbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|E:\\University\\Progect\\car_nastya\\project-files\\car_renting_management_system\\bookform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|solutionrelative:car_renting_management_system\\bookform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|E:\\University\\Progect\\car_nastya\\project-files\\car_renting_management_system\\orderavaliable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|solutionrelative:car_renting_management_system\\orderavaliable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|E:\\University\\Progect\\car_nastya\\project-files\\car_renting_management_system\\oldbookinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|solutionrelative:car_renting_management_system\\oldbookinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|E:\\University\\Progect\\car_nastya\\project-files\\car_renting_management_system\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|solutionrelative:car_renting_management_system\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|E:\\University\\Progect\\car_nastya\\project-files\\car_renting_management_system\\customerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|solutionrelative:car_renting_management_system\\customerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|E:\\University\\Progect\\car_nastya\\project-files\\car_renting_management_system\\customerdetailsforbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|solutionrelative:car_renting_management_system\\customerdetailsforbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|E:\\University\\Progect\\car_nastya\\project-files\\car_renting_management_system\\cardetailsforbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|solutionrelative:car_renting_management_system\\cardetailsforbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|E:\\University\\Progect\\car_nastya\\project-files\\car_renting_management_system\\bookerrmsgbox.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|solutionrelative:car_renting_management_system\\bookerrmsgbox.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|E:\\University\\Progect\\car_nastya\\project-files\\car_renting_management_system\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|solutionrelative:car_renting_management_system\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|E:\\University\\Progect\\car_nastya\\project-files\\car_renting_management_system\\customerdetailsforbookform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|solutionrelative:car_renting_management_system\\customerdetailsforbookform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|E:\\University\\Progect\\car_nastya\\project-files\\car_renting_management_system\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|solutionrelative:car_renting_management_system\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|E:\\University\\Progect\\car_nastya\\project-files\\car_renting_management_system\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|solutionrelative:car_renting_management_system\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|E:\\University\\Progect\\car_nastya\\project-files\\car_renting_management_system\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|solutionrelative:car_renting_management_system\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|E:\\University\\Progect\\car_nastya\\project-files\\car_renting_management_system\\if_muscle_car_44797.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|solutionrelative:car_renting_management_system\\if_muscle_car_44797.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|E:\\University\\Progect\\car_nastya\\project-files\\car_renting_management_system\\driverdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|solutionrelative:car_renting_management_system\\driverdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|E:\\University\\Progect\\car_nastya\\project-files\\car_renting_management_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|solutionrelative:car_renting_management_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|E:\\University\\Progect\\car_nastya\\project-files\\car_renting_management_system\\metroframework.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|solutionrelative:car_renting_management_system\\metroframework.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|E:\\University\\Progect\\car_nastya\\project-files\\car_renting_management_system\\paymentsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|solutionrelative:car_renting_management_system\\paymentsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|E:\\University\\Progect\\car_nastya\\project-files\\car_renting_management_system\\profits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AD0A8F-1D86-4018-93D4-4C1F09E81580}|Car_Renting_Management_System\\car_nastya.csproj|solutionrelative:car_renting_management_system\\profits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookErrMsgBox.cs",
+              "DocumentMoniker": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\BookErrMsgBox.cs",
+              "RelativeDocumentMoniker": "Car_Renting_Management_System\\BookErrMsgBox.cs",
+              "ToolTip": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\BookErrMsgBox.cs",
+              "RelativeToolTip": "Car_Renting_Management_System\\BookErrMsgBox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:32:10.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "accountType.Designer.cs",
+              "DocumentMoniker": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\accountType.Designer.cs",
+              "RelativeDocumentMoniker": "Car_Renting_Management_System\\accountType.Designer.cs",
+              "ToolTip": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\accountType.Designer.cs",
+              "RelativeToolTip": "Car_Renting_Management_System\\accountType.Designer.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAwwI4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:22:59.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "accountType.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\accountType.cs",
+              "RelativeDocumentMoniker": "Car_Renting_Management_System\\accountType.cs",
+              "ToolTip": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\accountType.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Car_Renting_Management_System\\accountType.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:22:47.578Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DriverDetails.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\DriverDetails.cs",
+              "RelativeDocumentMoniker": "Car_Renting_Management_System\\DriverDetails.cs",
+              "ToolTip": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\DriverDetails.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Car_Renting_Management_System\\DriverDetails.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T11:42:26.803Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "Car_Renting_Management_System\\CustomerForm.cs",
+              "ToolTip": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\CustomerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Car_Renting_Management_System\\CustomerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:56:55.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "accountType.cs",
+              "DocumentMoniker": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\accountType.cs",
+              "RelativeDocumentMoniker": "Car_Renting_Management_System\\accountType.cs",
+              "ToolTip": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\accountType.cs",
+              "RelativeToolTip": "Car_Renting_Management_System\\accountType.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwFkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:46:29.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\CustomerEditForm.cs",
+              "RelativeDocumentMoniker": "Car_Renting_Management_System\\CustomerEditForm.cs",
+              "ToolTip": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\CustomerEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Car_Renting_Management_System\\CustomerEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:49:19.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ComformFormDelete.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\ComformFormDelete.cs",
+              "RelativeDocumentMoniker": "Car_Renting_Management_System\\ComformFormDelete.cs",
+              "ToolTip": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\ComformFormDelete.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Car_Renting_Management_System\\ComformFormDelete.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:48:45.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "cusDetailsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\cusDetailsForm.cs",
+              "RelativeDocumentMoniker": "Car_Renting_Management_System\\cusDetailsForm.cs",
+              "ToolTip": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\cusDetailsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Car_Renting_Management_System\\cusDetailsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:48:41.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerDetailsForBookForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\CustomerDetailsForBookForm.cs",
+              "RelativeDocumentMoniker": "Car_Renting_Management_System\\CustomerDetailsForBookForm.cs",
+              "ToolTip": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\CustomerDetailsForBookForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Car_Renting_Management_System\\CustomerDetailsForBookForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T11:45:17.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "carsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\carsForm.cs",
+              "RelativeDocumentMoniker": "Car_Renting_Management_System\\carsForm.cs",
+              "ToolTip": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\carsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Car_Renting_Management_System\\carsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T11:47:41.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CardetailsForBook.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\CardetailsForBook.cs",
+              "RelativeDocumentMoniker": "Car_Renting_Management_System\\CardetailsForBook.cs",
+              "ToolTip": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\CardetailsForBook.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Car_Renting_Management_System\\CardetailsForBook.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:49:14.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CarAvaliableForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\CarAvaliableForm.cs",
+              "RelativeDocumentMoniker": "Car_Renting_Management_System\\CarAvaliableForm.cs",
+              "ToolTip": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\CarAvaliableForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Car_Renting_Management_System\\CarAvaliableForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:48:47.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "bookForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\bookForm.cs",
+              "RelativeDocumentMoniker": "Car_Renting_Management_System\\bookForm.cs",
+              "ToolTip": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\bookForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Car_Renting_Management_System\\bookForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T12:12:21.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "carsForm.Designer.cs",
+              "DocumentMoniker": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\carsForm.Designer.cs",
+              "RelativeDocumentMoniker": "Car_Renting_Management_System\\carsForm.Designer.cs",
+              "ToolTip": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\carsForm.Designer.cs",
+              "RelativeToolTip": "Car_Renting_Management_System\\carsForm.Designer.cs",
+              "ViewState": "AgIAAA4DAAAAAAAAAAAAADADAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T12:28:37.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CardetailsForBook.Designer.cs",
+              "DocumentMoniker": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\CardetailsForBook.Designer.cs",
+              "RelativeDocumentMoniker": "Car_Renting_Management_System\\CardetailsForBook.Designer.cs",
+              "ToolTip": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\CardetailsForBook.Designer.cs",
+              "RelativeToolTip": "Car_Renting_Management_System\\CardetailsForBook.Designer.cs",
+              "ViewState": "AgIAAOQBAAAAAAAAAAAAAAYCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T12:14:23.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\MainForm.cs",
+              "RelativeDocumentMoniker": "Car_Renting_Management_System\\MainForm.cs",
+              "ToolTip": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\MainForm.cs",
+              "RelativeToolTip": "Car_Renting_Management_System\\MainForm.cs",
+              "ViewState": "AgIAAO4AAAAAAAAAAAAAAP8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T11:36:38.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Car_Renting_Management_System\\LoginForm.cs",
+              "ToolTip": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Car_Renting_Management_System\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:45:51.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "returning.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\returning.cs",
+              "RelativeDocumentMoniker": "Car_Renting_Management_System\\returning.cs",
+              "ToolTip": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\returning.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Car_Renting_Management_System\\returning.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T12:24:09.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "settings.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\settings.cs",
+              "RelativeDocumentMoniker": "Car_Renting_Management_System\\settings.cs",
+              "ToolTip": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\settings.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Car_Renting_Management_System\\settings.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T12:24:11.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "showProfits.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\showProfits.cs",
+              "RelativeDocumentMoniker": "Car_Renting_Management_System\\showProfits.cs",
+              "ToolTip": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\showProfits.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Car_Renting_Management_System\\showProfits.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T12:24:16.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SuccessMSGBox.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\SuccessMSGBox.cs",
+              "RelativeDocumentMoniker": "Car_Renting_Management_System\\SuccessMSGBox.cs",
+              "ToolTip": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\SuccessMSGBox.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Car_Renting_Management_System\\SuccessMSGBox.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T12:24:13.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "bookForm.Designer.cs",
+              "DocumentMoniker": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\bookForm.Designer.cs",
+              "RelativeDocumentMoniker": "Car_Renting_Management_System\\bookForm.Designer.cs",
+              "ToolTip": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\bookForm.Designer.cs",
+              "RelativeToolTip": "Car_Renting_Management_System\\bookForm.Designer.cs",
+              "ViewState": "AgIAANsDAAAAAAAAAAAAAP0DAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T11:55:32.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderAvaliable.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\OrderAvaliable.cs",
+              "RelativeDocumentMoniker": "Car_Renting_Management_System\\OrderAvaliable.cs",
+              "ToolTip": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\OrderAvaliable.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Car_Renting_Management_System\\OrderAvaliable.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:45:41.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OldBookInfo.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\OldBookInfo.cs",
+              "RelativeDocumentMoniker": "Car_Renting_Management_System\\OldBookInfo.cs",
+              "ToolTip": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\OldBookInfo.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Car_Renting_Management_System\\OldBookInfo.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:45:44.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Notification.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\Notification.cs",
+              "RelativeDocumentMoniker": "Car_Renting_Management_System\\Notification.cs",
+              "ToolTip": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\Notification.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Car_Renting_Management_System\\Notification.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:45:42.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CustomerForm.Designer.cs",
+              "DocumentMoniker": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\CustomerForm.Designer.cs",
+              "RelativeDocumentMoniker": "Car_Renting_Management_System\\CustomerForm.Designer.cs",
+              "ToolTip": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\CustomerForm.Designer.cs",
+              "RelativeToolTip": "Car_Renting_Management_System\\CustomerForm.Designer.cs",
+              "ViewState": "AgIAAJ0CAAAAAAAAAAAAACgDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:49:34.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CustomerDetailsForBookForm.cs",
+              "DocumentMoniker": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\CustomerDetailsForBookForm.cs",
+              "RelativeDocumentMoniker": "Car_Renting_Management_System\\CustomerDetailsForBookForm.cs",
+              "ToolTip": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\CustomerDetailsForBookForm.cs",
+              "RelativeToolTip": "Car_Renting_Management_System\\CustomerDetailsForBookForm.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAAGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T12:18:49.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CardetailsForBook.cs",
+              "DocumentMoniker": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\CardetailsForBook.cs",
+              "RelativeDocumentMoniker": "Car_Renting_Management_System\\CardetailsForBook.cs",
+              "ToolTip": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\CardetailsForBook.cs",
+              "RelativeToolTip": "Car_Renting_Management_System\\CardetailsForBook.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T12:14:01.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BookErrMsgBox.Designer.cs",
+              "DocumentMoniker": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\BookErrMsgBox.Designer.cs",
+              "RelativeDocumentMoniker": "Car_Renting_Management_System\\BookErrMsgBox.Designer.cs",
+              "ToolTip": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\BookErrMsgBox.Designer.cs",
+              "RelativeToolTip": "Car_Renting_Management_System\\BookErrMsgBox.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T11:54:29.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "bookForm.cs",
+              "DocumentMoniker": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\bookForm.cs",
+              "RelativeDocumentMoniker": "Car_Renting_Management_System\\bookForm.cs",
+              "ToolTip": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\bookForm.cs",
+              "RelativeToolTip": "Car_Renting_Management_System\\bookForm.cs",
+              "ViewState": "AgIAAN0FAAAAAAAAAAAQwPAFAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T12:02:57.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CustomerDetailsForBookForm.Designer.cs",
+              "DocumentMoniker": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\CustomerDetailsForBookForm.Designer.cs",
+              "RelativeDocumentMoniker": "Car_Renting_Management_System\\CustomerDetailsForBookForm.Designer.cs",
+              "ToolTip": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\CustomerDetailsForBookForm.Designer.cs",
+              "RelativeToolTip": "Car_Renting_Management_System\\CustomerDetailsForBookForm.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T11:46:24.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "Car_Renting_Management_System\\MainForm.Designer.cs",
+              "ToolTip": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\MainForm.Designer.cs",
+              "RelativeToolTip": "Car_Renting_Management_System\\MainForm.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwCQCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T11:14:54.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Car_Renting_Management_System\\LoginForm.cs",
+              "ToolTip": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\LoginForm.cs",
+              "RelativeToolTip": "Car_Renting_Management_System\\LoginForm.cs",
+              "ViewState": "AgIAAC4BAAAAAAAAAAAuwFEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T11:16:30.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "Car_Renting_Management_System\\LoginForm.Designer.cs",
+              "ToolTip": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\LoginForm.Designer.cs",
+              "RelativeToolTip": "Car_Renting_Management_System\\LoginForm.Designer.cs",
+              "ViewState": "AgIAANMAAAAAAAAAAAAvwOcAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T11:12:54.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "if_muscle_car_44797.ico - Icon [256x256, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
+              "DocumentMoniker": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\if_muscle_car_44797.ico",
+              "RelativeDocumentMoniker": "Car_Renting_Management_System\\if_muscle_car_44797.ico",
+              "ToolTip": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\if_muscle_car_44797.ico - Icon [256x256, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
+              "RelativeToolTip": "Car_Renting_Management_System\\if_muscle_car_44797.ico - Icon [256x256, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-12-21T11:42:37.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DriverDetails.cs",
+              "DocumentMoniker": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\DriverDetails.cs",
+              "RelativeDocumentMoniker": "Car_Renting_Management_System\\DriverDetails.cs",
+              "ToolTip": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\DriverDetails.cs",
+              "RelativeToolTip": "Car_Renting_Management_System\\DriverDetails.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAcwHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T11:42:29.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\Program.cs",
+              "RelativeDocumentMoniker": "Car_Renting_Management_System\\Program.cs",
+              "ToolTip": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\Program.cs",
+              "RelativeToolTip": "Car_Renting_Management_System\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:48:07.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MetroFramework.txt",
+              "DocumentMoniker": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\MetroFramework.txt",
+              "RelativeDocumentMoniker": "Car_Renting_Management_System\\MetroFramework.txt",
+              "ToolTip": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\MetroFramework.txt",
+              "RelativeToolTip": "Car_Renting_Management_System\\MetroFramework.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-21T10:45:46.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "PaymentSettings.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\PaymentSettings.cs",
+              "RelativeDocumentMoniker": "Car_Renting_Management_System\\PaymentSettings.cs",
+              "ToolTip": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\PaymentSettings.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Car_Renting_Management_System\\PaymentSettings.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:45:39.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "profits.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\profits.cs",
+              "RelativeDocumentMoniker": "Car_Renting_Management_System\\profits.cs",
+              "ToolTip": "E:\\University\\Progect\\car_nastya\\project-files\\Car_Renting_Management_System\\profits.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Car_Renting_Management_System\\profits.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:45:37.567Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

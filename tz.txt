@@ -1,0 +1,34 @@
+#### Система управления швейной фабрикой - учетные данные
+
+#### База данных
+- **Сервер:** localhost
+- **База данных:** sewingfactory
+- **Пользователь БД:** root
+- **Пароль БД:** 1234
+
+#### Текущие пользователи системы (из БД users)
+#### Admin Login
+- *Username:* kuna
+- *Password:* 123
+
+#### Staff Login
+- *Username:* guna
+- *Password:* guna123
+
+#### Примеры учетных данных
+#### Администратор
+- *Username:* admin
+- *Password:* FabricaAdmin2024!
+
+#### Оператор
+- *Username:* operator.ivanova
+- *Password:* IvanoVa2024!
+
+#### Мастер
+- *Username:* master.petrov
+- *Password:* PetrovMaster2024!
+
+#### Примечания
+- Пароли в базе данных хранятся в хешированном виде (SHA-256)
+- Для входа используются учетные данные из таблицы users базы данных
+- Поля: username, password_hash, role, full_name, is_active
