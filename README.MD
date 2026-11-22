@@ -1,11 +1,11 @@
-# Sewing Factory Management
+# Учётная система для швейного производства
 
-Student Windows desktop project using C#, WinForms and MySQL. The screens illustrate login and record management for orders, products, customers and staff.
+Учебный настольный проект на C#, WinForms и MySQL. Формы показывают вход в систему и работу с заказами, товарами, клиентами и сотрудниками.
 
-![Orders form](src/orders_form.png)
+![Форма заказов](src/orders_form.png)
 
-- [Application files](project-files)
-- [Database files](database)
-- [Interface screenshots](src)
+- [Файлы приложения](project-files)
+- [Файлы базы данных](database)
+- [Скриншоты интерфейса](src)
 
-The repository is a legacy coursework snapshot. To explore it locally, use a separate test database and review the database import and connection settings first.
+Это сохранённая версия учебной работы. Для локального просмотра сначала проверьте настройки подключения и создайте отдельную тестовую базу. [English](README.en.md).
